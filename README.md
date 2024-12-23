@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://i.postimg.cc/pTRjxFCS/temp-Image-Uw-WOFI.avif" height=150 width=170 alt="Coili" border-radius=50 />
-</div>
 <h1 align="center">🥷 Hey</h1>
 
 ###
